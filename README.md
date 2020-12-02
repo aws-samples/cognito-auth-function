@@ -1,11 +1,6 @@
-## My Project
+## Cognito Auth Function
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Use this function to authorize users into your application
 
 ## Security
 
